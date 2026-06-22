@@ -1,3 +1,4 @@
+Ve el proyecto live aquí: [Ver Notebook en nbviewer](https://nbviewer.org/github/ain0soy110/analisis-ice-game-sales/)
 Análisis de Ventas y Tendencias en la Industria de Videojuegos
 
 Este proyecto de análisis de datos realiza una investigación exhaustiva del mercado global de videojuegos a partir de un dataset histórico con más de 16,000 registros. A través de un pipeline completo de procesamiento de datos (EDAs) y análisis estadístico, se identifican los patrones de éxito, ciclos de vida de las plataformas, preferencias regionales de los consumidores y la correlación entre las evaluaciones cuantitativas de la crítica/usuarios con el desempeño comercial de los títulos.
